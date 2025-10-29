@@ -1,2 +1,2 @@
-#!/bin/bash
+7-everybody
 chmod ug+x,o+r hello
